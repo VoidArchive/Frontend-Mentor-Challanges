@@ -11,12 +11,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
     - [Built with](#built-with)
 
-
 ## Overview
-A simple QR code scanner card. 
+
+A simple QR code scanner card.
+
 ### Screenshot
 
-![](images/Screenshot%20from%202022-05-29%2012-02-53.png)
+![](/001/images/Screenshot%20from%202022-05-29%2015-46-41.png)
 
 ### Links
 
