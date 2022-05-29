@@ -21,8 +21,8 @@ A simple QR code scanner card.
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/001/Solution)
-- Live Site URL: [Live site](https://frontend-mentor-challanges-red.vercel.app/)
+- Solution URL: [Solution](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/001/)
+- Live Site URL: [Live site](https://frontend-mentor-challanges-flame.vercel.app/)
 
 ### Built with
 
