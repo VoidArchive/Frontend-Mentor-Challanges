@@ -41,8 +41,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/002)
-- Live Site URL: [Add live site URL here](https://expense-tracker-seven-gamma.vercel.app/)
+- Solution URL: [Solution Repo](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/002)
+- Live Site URL: [Live Site](https://expense-tracker-seven-gamma.vercel.app/)
 
 ### Built with
 
