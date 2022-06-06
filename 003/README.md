@@ -33,7 +33,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Solution Repo](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/002)
+- Solution URL: [Solution Repo](https://github.com/VoidArchive/Frontend-Mentor-Challanges/tree/main/003)
 - Live Site URL: [Live Site](https://expense-tracker-seven-gamma.vercel.app/)
 
 ### Built with
