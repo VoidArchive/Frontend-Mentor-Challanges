@@ -6,18 +6,12 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 - [Frontend Mentor - Expenses chart component solution](#frontend-mentor---expenses-chart-component-solution)
   - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
-
-## Overview
-
-This was the first time I used svelte. It took me 3 days to learn enough svelte before I could even attempt this challange.
-As someone from backend development, this was the most fun I have ever had building a frontend project.
 
 ### The challenge
 
@@ -52,12 +46,8 @@ Mobile
 
 ### What I learned
 
-Since this was the first time I used svelte, I had no idea what I was getting into. There are lots of cool stuff I've learned to do in svelte.
-Such as loop using svelte.
-Using scope CSS feels odd but amazing.
-Import and export variables.
-Global CSS - :global(body)
-Also learned how to deploy svelte repo in vercel.
+- How to fetch API in svelte.
+- Use on:click instead of onclick. This took me hours to figure out why my button was not working.
 
 ## Author
 
