@@ -18,10 +18,10 @@
     <button>Learn more</button>
 
     <div class="client">
-      <img src={databiz} alt="" />
-      <img src={audiopile} alt="" />
-      <img src={meet} alt="" />
-      <img src={maker} alt="" />
+      <img src={databiz} alt="databiz" />
+      <img src={audiopile} alt="audiopile" />
+      <img src={meet} alt="meet" />
+      <img src={maker} alt="maker" />
     </div>
   </div>
 
